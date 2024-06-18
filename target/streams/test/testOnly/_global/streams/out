@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(problem2.PromotionsSpec, org.scalatest.tools.Framework$$anon$1@7a408e56, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPromotionsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSampleDataProb2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not contain null values in its sequence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mallCombinablePromotions1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should give all combinable promotions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mallCombinablePromotions2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle the case with no conflicts[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcombinablePromotions3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle promotions with one that excludes all other promotions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 285 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	problem2.PromotionsSpec[0m
